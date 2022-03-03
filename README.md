@@ -1,2 +1,2 @@
-# buyer_persona
-plantilla para buyer persona en primera fase
+## Practicas intro Frontend
+Documentos de las practicas
